@@ -41,6 +41,11 @@ public class Document {
     public void clear(){
         remplacer(0,texte.length(),"");
     }
+    public void inserer(int position,String insertion){
+        String leftPart = texte.substring(0,position+1);
+        String rightPart = texte.substring(position+1);
+        texte=leftPart + insertion + rightPart;
+    }
 
 
 }
