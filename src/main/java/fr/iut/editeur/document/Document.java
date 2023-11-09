@@ -39,7 +39,7 @@ public class Document {
         remplacer(start,end,"");
     }
     public void clear(){
-        remplacer(0,texte.length()-1,"");
+        remplacer(0,texte.length(),"");
     }
 
 
