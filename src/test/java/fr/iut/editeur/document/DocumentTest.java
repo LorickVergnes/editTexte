@@ -20,13 +20,13 @@ public class DocumentTest extends TestCase {
         assertEquals("", doc.getTexte());
     }
 
-    @Test
+    /*@Test
     public void testClear2() {
         Document doc = new Document();
         doc.ajouter("toto");
         doc.clear();
         assertEquals("toto", doc.getTexte());
-    }
+    }*/
 
 
 
