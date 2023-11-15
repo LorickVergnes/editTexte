@@ -13,7 +13,7 @@ jobs:
       - name: setUpJava
         uses: actions/setup-java@v1
         with:
-          node-version: '17'
+          node-version: 17
 
       - name: tests
         run: mvn test
