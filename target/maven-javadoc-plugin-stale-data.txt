@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/vergn/Documents/Universite/IUT_annee_2/Qualite_de_developpement/GIT/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/vergn/Documents/Universite/IUT_annee_2/Qualite_de_developpement/GIT/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EditeurDeTexte 0.0.1 API'
+-use
+-version
+-windowtitle
+'EditeurDeTexte 0.0.1 API'
+fr.iut.editeur.commande
+fr.iut.editeur.commande.factory
+fr.iut.editeur.commande.invoker
+fr.iut.editeur.document
+fr.iut.editeur
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\src\main\java = 1699475833976
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\allclasses-index.html = 1700036724310
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\allpackages-index.html = 1700036724314
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\element-list = 1700036724183
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\help-doc.html = 1700036724345
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\index-all.html = 1700036724338
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\index.html = 1700036724298
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\javadoc.bat = 1700036187286
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\jquery-ui.overrides.css = 1700036724368
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\member-search-index.js = 1700036724323
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\module-search-index.js = 1700036724316
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\overview-summary.html = 1700036724341
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\overview-tree.html = 1700036724293
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\package-search-index.js = 1700036724318
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\script.js = 1700036724351
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\search.js = 1700036724353
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\stylesheet.css = 1700036724349
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\tag-search-index.js = 1700036724324
+C:\Users\vergn\Documents\Universite\IUT_annee_2\Qualite_de_developpement\GIT\target\site\apidocs\type-search-index.js = 1700036724321
