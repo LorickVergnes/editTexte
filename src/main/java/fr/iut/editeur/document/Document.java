@@ -25,19 +25,32 @@ public class Document {
         return this.texte;
     }
 
+
+    /**
+     * on remplace le texte
+     */
     public void remplacer(int start, int end, String remplacement) {
         String leftPart = texte.substring(0, start);
         String rightPart = texte.substring(end);
         texte = leftPart + remplacement + rightPart;
     }
 
+    /**
+     * On met en majuscule le texte
+     */
     public void majuscules(int start, int end) {
         String maj=texte.substring(start,end).toUpperCase();
         remplacer(start,end,maj);
     }
+
+    /**
+     * On efface le texte
+     */
     public void effacer(int start, int end) {
         remplacer(start,end,"");
     }
+
+
     public void clear(){
         remplacer(0,texte.length(),"");
     }
